@@ -1,0 +1,9 @@
+﻿  MyDate.cpp
+C:\Users\gpro\Desktop\labagitelmanoop — копия (2)\labagitelmanoop\MyDate.cpp(158,10): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gpro\Desktop\labagitelmanoop — копия (2)\labagitelmanoop\MyDate.cpp(166,10): warning C4018: <: несоответствие типов со знаком и без знака
+  MyString.cpp
+C:\Users\gpro\Desktop\labagitelmanoop — копия (2)\labagitelmanoop\MyString.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  vec.cpp
+  Создание кода...
+C:\Users\gpro\Desktop\labagitelmanoop — копия (2)\labagitelmanoop\MyString.cpp(32): warning C4172: возвращение адреса локальной или временной переменной : err
+  labagitelmanoop.vcxproj -> C:\Users\gpro\Desktop\labagitelmanoop — копия (2)\Debug\labagitelmanoop.exe
